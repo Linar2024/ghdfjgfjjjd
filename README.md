@@ -7,11 +7,11 @@ Git — это развитая система контроля версий с 
 
 
 ## Создание репозитория
-git init
-git add .
-git commit -m "Create README.md"
-git remote add origin https://github.com/Linar2024/ghdfjgfjjjd.git
-git push origin main
+    git init
+    git add .
+    git commit -m "Create README.md"
+    git remote add origin https://github.com/Linar2024/ghdfjgfjjjd.git
+    git push origin main
 
 
 ## Описание возможностей Git
